@@ -1,0 +1,53 @@
+{
+  "todos": [
+    {
+      "title": "todo 2",
+      "description": "Asdf",
+      "author": "a@a.com",
+      "createdOn": "11/14/2023, 9:19:04 AM",
+      "complete": false,
+      "completedOn": null,
+      "id": 2
+    },
+    {
+      "title": "todo 3",
+      "description": "u56e6y3eg",
+      "author": "a@a.com",
+      "createdOn": "11/14/2023, 9:19:11 AM",
+      "complete": false,
+      "completedOn": null,
+      "id": 3
+    },
+    {
+      "title": "1234",
+      "description": "fass",
+      "author": "c@c.com",
+      "createdOn": "11/14/2023, 11:31:43 AM",
+      "complete": false,
+      "completedOn": null,
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "email": "test@gmail.com",
+      "password": "$2a$10$5BbvQoKVQEVFB5mro7.SbuNtWLKXGsTYLtqRCT2o1xLll4ui9.DLe",
+      "id": 1
+    },
+    {
+      "email": "a@a.com",
+      "password": "$2a$10$QCQFWNFq4MeSS9GuYexNN.Ka8epk01lUeFgk.rotLkeSGdusknhxW",
+      "id": 2
+    },
+    {
+      "email": "b@b.com",
+      "password": "$2a$10$YT57EC211gE.xTxHJhwg6.jWTWIMj4kPvEL18bin2iK9EU9G/agbe",
+      "id": 3
+    },
+    {
+      "email": "c@c.com",
+      "password": "$2a$10$fdGrC5zRdvtkxDowrmXjW.lv2kD37RVMcq6Qu2O1yAx1z/PXuIxNC",
+      "id": 4
+    }
+  ]
+}
